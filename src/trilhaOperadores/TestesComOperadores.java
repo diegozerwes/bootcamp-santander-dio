@@ -1,10 +1,9 @@
-package bootcampSantanderDIO;
+package trilhaOperadores;
 
-public class OlaGit {
+public class TestesComOperadores {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Olá, Git ");
 
 	}
 
