@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="collections/List/catalogoDeLivros/|collections/List/" kind="src" path="src"/>
+	<classpathentry excluding="collections/List/catalogoDeLivros/|collections/List/|collections/Map/OperacoesBasicas/|collections/Map/Ordenacao/|collections/Set/operacoesBasicas/|collections/Set/Ordenacao/|collections/Set/Pesquisa/|collections/Map/Pesquisa/|collections/Map/Pesquisa/|collections/Map/|collections/|collections/Map/OperacoesBasicas/|collections/Map/Pesquisa/" kind="src" path="src"/>
+	<classpathentry kind="src" path="collections"/>
 	<classpathentry excluding="catalogoDeLivros/|Ordenacao/OrdenacaoNumeros.java|Ordenacao/Pessoa.java|Ordenacao/OrdenacaoPessoas.java|OperacoesBasicas/CarrinhoDeCompras.java|OperacoesBasicas/Item.java|OperacoesBasicas/ListaTarefa.java|OperacoesBasicas/Tarefa.java|testeInicio.java|somaDeNumeros/SomaNumeros.java" kind="src" path="src/collections/List"/>
+	<classpathentry excluding="List/|Map/OperacoesBasicas/|Map/Pesquisa/" kind="src" path="src/collections"/>
+	<classpathentry kind="src" path="src/collections/Map/OperacoesBasicas"/>
+	<classpathentry kind="src" path="src/collections/Map/Pesquisa"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>

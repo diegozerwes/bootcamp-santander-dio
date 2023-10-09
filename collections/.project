@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>collections</name>
+			<type>2</type>
+			<location>D:/Aulas/Santander/Bootcamp_santander/bootcampSantanderDIO/collections/src/collections</location>
+		</link>
+	</linkedResources>
 </projectDescription>
